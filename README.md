@@ -3,5 +3,5 @@
 - numpy
 - idx2numpy
 - matplotlib
-
+- tensorflow
 For chapter 4, download the MNIST dataset from kaggle and put the images in data/chapter4/
